@@ -1,5 +1,5 @@
 // videoplay-clean.js
-// Reemplazo limpio y legible para todas las funciones del template Video Blogger
+// Reemplazo limpio y legible para todas las funciones del template Play Blogger
 
 // ==============================================
 // VARIABLES GLOBALES (coinciden con las del XML)
